@@ -1,0 +1,32 @@
+{
+  "name": "sc-bootstrap-star-rating",
+  "downloads": null,
+  "version": "4.0.5",
+  "version_downloads": null,
+  "platform": "ruby",
+  "authors": "rails-assets.org & surecritic",
+  "info": "A simple yet powerful JQuery star rating plugin for Bootstrap.",
+  
+  "licenses": "BSD-3-Clause",
+  
+  "metadata": {
+
+  },
+  "sha": null,
+  "project_uri": "https://github.com/kartik-v/bootstrap-star-rating",
+  "gem_uri": null,
+  "homepage_uri": "https://github.com/kartik-v/bootstrap-star-rating",
+  "wiki_uri": null,
+  "documentation_uri": null,
+  "mailing_list_uri": null,
+  "source_code_uri": "https://github.com/kartik-v/bootstrap-star-rating",
+  "bug_tracker_uri": null,
+  "dependencies": {
+    "development": [
+
+    ],
+    "runtime": [
+
+    ]
+  }
+}
